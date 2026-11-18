@@ -1,15 +1,4 @@
-Perfect! Here is your complete professional README in English.
 
-### How to Add It:
-
-*1.* Go to your project folder:
-C:\Users\acer\OneDrive\Documents\House-Price-Prediction
-*2.* Create a new file named `README.md`
-*3.* Copy-paste the full content below into it and save
-*4.* In GitHub Desktop, write in Summary: `Added Professional README`
-*5.* Click *Commit* -> *Push origin*
-
-### Full Professional README - Copy This:
 # 🏠 House Price Prediction
 
 Predicting California house prices using Machine Learning — comparing Linear Regression, Decision Tree, and Random Forest to find the most accurate model.
